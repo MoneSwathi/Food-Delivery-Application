@@ -40,7 +40,7 @@ Apache Tomcat 9 or higher
 MySQL Database
 MySQL Connector JAR (Add to WEB-INF/lib folder)
 ✅ Step 1: Clone the Repository
-git clone https://github.com/MoneSwathi/FoodDeliveryApplication
+git clone https://github.com/MoneSwathi/Food-Delivery-Application
 ✅ Step 2: Set Up MySQL Database
 Open MySQL Workbench or Command Line.
 Create the database using the following command:
